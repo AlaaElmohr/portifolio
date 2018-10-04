@@ -484,7 +484,9 @@ ul.main-nav.show-it {
   transition-delay: .25s;
 }
 
-
+a.app-img{
+opacity:1
+}
 
 
 
